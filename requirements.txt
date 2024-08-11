@@ -1,0 +1,7 @@
+tkinter
+numpy
+matplotlib
+scipy
+sympy
+threading
+queue
